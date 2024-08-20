@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+/*Custom css*/
+
+/*5 day weather forecast here*/
+.forecast_detail{
+    font-size: 20pt;
+    height: 4rem;
+}
